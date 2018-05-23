@@ -1,0 +1,4 @@
+[submodule "onesteinbv/addons-onestein"]
+	path = onesteinbv/addons-onestein
+	url = git@github.com:onesteinbv/addons-onestein.git
+	branch = 11.0
